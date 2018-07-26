@@ -24,7 +24,6 @@ class App extends Component {
     return (
       <div className="App">
       {this.state.OneStep}
-      
     </div>
     );
   }
