@@ -2,5 +2,43 @@
   text-align: left;
 }
 
+.h6-account{
+  padding-bottom: 20px;
+  color: #ce3f71;
+}
+.p-margin-0{
+  margin: 0;
+  font-weight: 500;
+  display: block;
+  color:#e07097;
+}
+.label-welcome{
+  padding-bottom: 20px;
+  display: block;
+
+}
+
+.next-radius{
+  border-radius: 43px;
+  width: 300px;
+  height: 33px;
+  text-align: center;
+  background: linear-gradient(to right, rgb(224, 112, 151) 0%, rgb(206, 63, 113) 100%);
+}
+
+
+.label-min{
+  display: block;
+  font-style: italic;
+}
+.form-elegant .font-small {
+  font-size: 0.8rem; }
+
+  .form-elegant .z-depth-1-half, .form-elegant .btn:hover {
+  -webkit-box-shadow: 0 5px 11px 0 rgba(224, 112, 151, 0.28), 0 4px 15px 0 rgba(206, 63, 113, 0.15) !important;
+  box-shadow: 0 5px 11px 0 rgba(224, 112, 151, 0.28), 0 4px 15px 0 rgba(206, 63, 113, 0.15) !important;
+}
+
+
 
 
